@@ -1,0 +1,6 @@
+@WebAlina_HostAddress = http://localhost:5197
+
+GET {{WebAlina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
